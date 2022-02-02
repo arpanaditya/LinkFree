@@ -1,45 +1,45 @@
-## [0.59.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.59.0...v0.59.1) (2022-01-12)
+## [0.62.2](https://github.com/EddieHubCommunity/LinkFree/compare/v0.62.1...v0.62.2) (2022-01-28)
 
 
 ### Bug Fixes
 
-* Replace custom CSS with prime-react classes for Home/Users.js ([#944](https://github.com/EddieHubCommunity/LinkFree/issues/944)) ([f304d7e](https://github.com/EddieHubCommunity/LinkFree/commit/f304d7ee21e0c485bdd6a0181bcd3062ebd726fd))
+* trigger build ([c704018](https://github.com/EddieHubCommunity/LinkFree/commit/c7040185b14c83bac11427b6d0e6ae373e9afb45))
 
 
 
-# [0.59.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.58.3...v0.59.0) (2022-01-10)
+## [0.62.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.62.0...v0.62.1) (2022-01-25)
+
+
+### Bug Fixes
+
+* change buttons to links [#1016](https://github.com/EddieHubCommunity/LinkFree/issues/1016) ([#1025](https://github.com/EddieHubCommunity/LinkFree/issues/1025)) ([11664b1](https://github.com/EddieHubCommunity/LinkFree/commit/11664b11b1bc6f8fa9bf0f47e97fb0b3bcd1b35e))
+
+
+
+# [0.62.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.61.0...v0.62.0) (2022-01-24)
 
 
 ### Features
 
-* filter by profile type ([#937](https://github.com/EddieHubCommunity/LinkFree/issues/937)) ([3db2c35](https://github.com/EddieHubCommunity/LinkFree/commit/3db2c357c0036bb23da1c59f28bf3a5e043254af))
+* add Polywork Icon ([#1026](https://github.com/EddieHubCommunity/LinkFree/issues/1026)) ([ed2d88e](https://github.com/EddieHubCommunity/LinkFree/commit/ed2d88e160f00f90d9d2a089fc8fd6def11bbc8b))
 
 
 
-## [0.58.3](https://github.com/EddieHubCommunity/LinkFree/compare/v0.58.2...v0.58.3) (2022-01-08)
+# [0.61.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.60.3...v0.61.0) (2022-01-23)
 
 
-### Bug Fixes
+### Features
 
-* improve  `avatar` section of README.md ([#930](https://github.com/EddieHubCommunity/LinkFree/issues/930)) ([e412074](https://github.com/EddieHubCommunity/LinkFree/commit/e4120748e6d1dc42201e48885fd62494ade9931e))
-
-
-
-## [0.58.2](https://github.com/EddieHubCommunity/LinkFree/compare/v0.58.1...v0.58.2) (2022-01-08)
-
-
-### Bug Fixes
-
-* improved the docs ([4d96088](https://github.com/EddieHubCommunity/LinkFree/commit/4d9608893c4bbfcd804b692c7df5caa6a671d4d9))
+* Add HackerRank Icon ([#1012](https://github.com/EddieHubCommunity/LinkFree/issues/1012)) ([9d14fcd](https://github.com/EddieHubCommunity/LinkFree/commit/9d14fcdeddd180f448a9eec419ca51da6bfed127))
 
 
 
-## [0.58.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.58.0...v0.58.1) (2022-01-07)
+## [0.60.3](https://github.com/EddieHubCommunity/LinkFree/compare/v0.60.2...v0.60.3) (2022-01-23)
 
 
 ### Bug Fixes
 
-* improve documentation ([#920](https://github.com/EddieHubCommunity/LinkFree/issues/920)) ([48a4f61](https://github.com/EddieHubCommunity/LinkFree/commit/48a4f6162123f890d10b296559cb52511663f64f))
+* Add tabIndex attribute to scroll to top btn ([#992](https://github.com/EddieHubCommunity/LinkFree/issues/992)) ([0666fab](https://github.com/EddieHubCommunity/LinkFree/commit/0666fab81e33039ad520b02e38e3f751fbdff877))
 
 
 
